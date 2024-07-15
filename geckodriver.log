@@ -1,0 +1,31 @@
+1716222511401	geckodriver	INFO	Listening on 127.0.0.1:53186
+1716222514432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marks\\AppData\\Local\\Temp\\rust_mozprofile8jDs6e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716222514651	Marionette	INFO	Marionette enabled
+1716222514723	Marionette	INFO	Listening on port 53200
+WebDriver BiDi listening on ws://127.0.0.1:53187
+Read port: 53200
+1716222514837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53187/devtools/browser/891a8b92-44f8-42fd-9832-aadfe06ab482
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 182: TypeError: this._element is null
+1716222516627	Marionette	INFO	Stopped listening on port 53200
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js, line 2: Script terminated by timeout at:
+p.fx.tick@https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js:2:90194
+
+Dynamically enable window occlusion 1
+1721068247108	geckodriver	INFO	Listening on 127.0.0.1:65285
+1721068250131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marks\\AppData\\Local\\Temp\\rust_mozprofileIHKIW0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1721068250311	Marionette	INFO	Marionette enabled
+1721068250411	Marionette	INFO	Listening on port 65297
+WebDriver BiDi listening on ws://127.0.0.1:65286
+Read port: 65297
+1721068250520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65286/devtools/browser/1163395b-db32-4706-b37d-4f964b51f880
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 182: TypeError: this._element is null
+1721068252034	Marionette	INFO	Stopped listening on port 65297
+Dynamically enable window occlusion 1

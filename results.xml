@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="2.884" timestamp="2024-05-20T18:34:48.356158" hostname="DESKTOP-6H2TRIM"><testcase classname="ff.PythonOrgSearch" name="test_search_in_python_org" time="2.798" /></testsuite></testsuites>
